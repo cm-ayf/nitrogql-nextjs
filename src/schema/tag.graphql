@@ -1,0 +1,5 @@
+type Tag {
+  id: ID! @model
+  label: String! @model
+  color: String! @model
+}
